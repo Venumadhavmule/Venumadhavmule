@@ -1,12 +1,13 @@
 # About me
 - This is my personal repository
+- I am a Java Developer
 ## My interests are
 - Playing chess
-- Building android applications
+- Building applications
 - Ui designing
 ## My skills are
-- *Android development*
-- *UI designing*
+- *Java development*
+- *SQL*
 - *Programming*
 ## Personal traits
 - Mostly i like to work in joyful and humourable environment
