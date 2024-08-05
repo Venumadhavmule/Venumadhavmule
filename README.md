@@ -31,8 +31,8 @@
 
 ### My tools for Data Manipulation & Visualisation:
 
-| ORACLE | MySQL | SQLite |
-|----------|----------|----------|
+| ORACLE | MySQL |
+|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
 
   
