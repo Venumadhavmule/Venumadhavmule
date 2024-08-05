@@ -10,7 +10,7 @@
 - *SQL*
 - *Programming*
 ## Personal traits
-- Mostly i like to work in joyful and humourable environment
+- I prefer to work in a joyful and humorous environment.
 ### Algorithms [LeetCode](https://leetcode.com/venumadhav_mule/)
 ## Languages and Tools 
 <div>
@@ -31,9 +31,9 @@
 
 ### My tools for Data Manipulation & Visualisation:
 
-| ORACLE | MySQL |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
+| SQL | ORACLE | MySQL |
+|----------|----------|----------|
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
   
 ### Environments, Testing, Other:
