@@ -1,12 +1,11 @@
 # About me
 - This is my personal repository
 - I am a Java Developer
-- You can reach me through:<a href="mailto:venumadhavamule@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a><a href="https://www.linkedin.com/in/venumadhav-mule/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+- You can reach me through:  <a href="mailto:venumadhavamule@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>   <a href="https://www.linkedin.com/in/venumadhav-mule/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> <a href="https://wa.me/919502140626" title="Whatsapp">
+<img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 <!-- <img alt="Prtfolio"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> 
 -->
-<!-- <a href="https://wa.me/91" title="Whatsapp">
-<img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
---> 
+
 ## My interests are
 - Playing chess
 - Building applications
@@ -33,11 +32,11 @@
 
   
 
-### Best frameworks and main libraries for Java:
+### Best frameworks and main libraries for Development:
 
-| Hibernate | Spring |
-|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate"  alt="Hibernate" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="55" height="55"/>| 
+| Hibernate | Spring | React |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate"  alt="Hibernate" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="55" height="55"/>| 
 
 
 ### My tools for Data Manipulation & Visualisation:
@@ -49,9 +48,9 @@
   
 ### Environments, Testing, Other:
 
-| Git | Postman | Gradle |
-|----------|----------| ----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="55" height="55"/>|
+| Git | Postman | Maven | Gradle |
+|----------|----------| ----------| ----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="55" height="55"/>|
 
 ### Integrated Development Environments (IDEs):
 
