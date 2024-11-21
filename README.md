@@ -28,7 +28,7 @@
 ### Technologies:
 | HTML5 | CSS3 | Bootstrap |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> |
 
   
 
@@ -36,33 +36,40 @@
 
 | Hibernate | Spring | React |
 |----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate"  alt="Hibernate" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring"  alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React"  alt="React" width="55" height="55"/>| 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate"  alt="Hibernate" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| 
 
 
 ### My tools for Data Manipulation & Visualisation:
 
 | SQL | ORACLE | MySQL |
 |----------|----------|----------|
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
   
-### Environments, Testing, Other:
+### Environments, Testing, Other Tools:
 
-| Git | Postman | Maven | Gradle |
-|----------|----------| ----------| ----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="55" height="55"/>|
+| Postman | Maven | Gradle | Jira |
+|----------| ----------| ----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>|
+
+### Version Control Tools:
+
+| Git | Bitbucket | Sourcetree |
+|----------| ----------| ----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" alt="Sourcetree" width="55" height="55"/>|
 
 ### Integrated Development Environments (IDEs):
 
-| IntelliJ |A Studio| VS Code|
-|----------|----------|-----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>|
+| IntelliJ |A Studio| VS Code| Eclipse |
+|----------|----------|-----------|-----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="55" height="55"/>|
+
 
 
 
 ### OS:
 
-| Windows |
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows 11" alt="Windows 11" width="55" height="55"/> |
+| Windows | Linux | Ubuntu |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 </div>
