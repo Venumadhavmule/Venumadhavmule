@@ -34,7 +34,7 @@
 
 ### Best frameworks and main libraries for Development:
 
-| Hibernate | Spring | React |
+| Hibernate | Spring Boot| React |
 |----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="Hibernate"  alt="Hibernate" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring"  alt="Spring" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>| 
 
