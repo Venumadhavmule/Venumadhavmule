@@ -1,6 +1,6 @@
 # About me
 - This is my personal repository
-- I am a Java Full Stack Developer
+- I am a Java Full Stack Developer | Android Developer
 - You can reach me through:  <a href="mailto:venumadhavareddy.mule@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>    <a href="https://wa.me/919502140626" title="Whatsapp">
 <img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a>
 <!-- <img alt="Prtfolio"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> 
